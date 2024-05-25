@@ -41,4 +41,6 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji0045&show_icons=true&locale=en" alt="balaji0045" /></p>
+![balaji0045's Stats](https://github-readme-stats.vercel.app/api?username=balaji0045&theme=react&show_icons=true&hide_border=false&count_private=false)
+![balaji0045's Streak](https://github-readme-streak-stats.herokuapp.com/?user=balaji0045&theme=react&hide_border=false)
+![balaji0045's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji0045&theme=react&show_icons=true&hide_border=false&layout=compact)
